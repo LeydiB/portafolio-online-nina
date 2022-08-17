@@ -5,12 +5,12 @@ body {
 }
 
 header {
-    background-color: #a3a4bf;
+    background-image: linear-gradient(#bfaaee, #a3a4bf) ;
     padding: 16px;
 }
 
 footer {
-    background-color: #bacdd9;
+    background-image: linear-gradient(#bacdd9,#b9e5f5);
     padding: 16px
 }
 
@@ -45,4 +45,12 @@ nav {
     background-color: #f2dff2;
     border: 0;
     padding: 2;
+}
+
+img {
+    width: 750px;
+}
+
+img:hover {
+    width: 800px;
 }
