@@ -1,0 +1,48 @@
+/* Estilizando el index */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: #a3a4bf;
+    padding: 16px;
+}
+
+footer {
+    background-color: #bacdd9;
+    padding: 16px
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin: 0px 30px;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    padding: 16px;
+}
+
+.header-logo {
+    font-size: 80px;
+
+    font-weight: 300;
+
+    color: hwb(300 99% 0%);
+    text-align: center;
+}
+
+.header-boton {
+    background-color: #f2dff2;
+    border: 0;
+    padding: 2;
+}
